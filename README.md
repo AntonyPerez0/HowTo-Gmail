@@ -28,4 +28,5 @@
 * **Last updated:** August 28, 2024
 * **For issues, refer to** [Google's help resources](https://support.google.com/)
 
-**Happy emailing!** 🚀
+**Link to the Webpage** 🚀
+https://antonyperez0.github.io/HowTo-Gmail/posts/Gmail/
